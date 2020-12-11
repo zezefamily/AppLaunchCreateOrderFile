@@ -1,5 +1,5 @@
 # AppLaunchCreateOrderFile
-自动创建order文件
+二进制重排,自动创建order文件
 
 # 使用步骤:
 
